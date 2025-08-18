@@ -453,4 +453,4 @@ rule-providers:
   Youtube / Domain: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/youtube.mrs"}  
   Google / Domain: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/google.mrs"}  
   Google / IP: {<<: *ip, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geoip/google.mrs"}
-  Direct2 / Domain: {<<: *class, url: "https://gh-proxy.com/raw.githubusercontent.com/SeanAshe/NikkiRules/refs/heads/main/Direct.txt"}
+  Direct2 / Domain: {<<: *class, url: "https://raw.githubusercontent.com/SeanAshe/NikkiRules/refs/heads/main/Direct.txt"}
