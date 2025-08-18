@@ -23,7 +23,16 @@ proxy-providers:
       enable: true
       url: https://www.gstatic.com/generate_204
       interval: 300
-    proxy: 其他-故转
+    proxy: 直连
+  火烧云:
+    url: "http://subvonehsy.onesubv.site/mj/v8/front/mysubnew?token=ad5d6c07312cf9e9c27b9b0a8f298ca4&timestamp=1755511871&sign=6da2dabf6db3a4eb5cb5c19d25b1894a"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 直连
 
 proxies:
   - {name: 直连, type: direct}
