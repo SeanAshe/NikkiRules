@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,hifini.net
+IP-CIDR,149.88.70.91/32,no-resolve
