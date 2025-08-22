@@ -14,7 +14,7 @@ proxy-providers:
       enable: true
       url: https://www.gstatic.com/generate_204
       interval: 300
-    proxy: 其他-故转
+    proxy: 香港-故转
   ByWave:
     url: "https://sub.bbwwvip.org/subscribe/143972/3SZL8qHWfS96"
     type: http
@@ -32,7 +32,7 @@ proxy-providers:
       enable: true
       url: https://www.gstatic.com/generate_204
       interval: 300
-    proxy: 直连
+    proxy: 香港-故转
 
 proxies:
   - {name: 直连, type: direct}
