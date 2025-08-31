@@ -354,7 +354,7 @@ proxy-groups:
 # 规则引擎（rules）
 # ========================
 rules:
-
+  - PROCESS-NAME,tailscaled,DIRECT
   - RULE-SET,TEST / Domain,Test
   - RULE-SET,Block / Domain,Block
   - RULE-SET,Docker / Domain,Docker
