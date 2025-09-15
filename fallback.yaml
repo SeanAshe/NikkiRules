@@ -25,7 +25,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   火烧云:
-    url: "http://subvonehsy.onesubv.site/mj/v8/front/mysubnew?token=ad5d6c07312cf9e9c27b9b0a8f298ca4&timestamp=1756096647&sign=821e936fa34255a242aeeed9ae6bf872"
+    url: "http://subvonehsy.onesubv.site/mj/v8/front/mysubnew?token=ad5d6c07312cf9e9c27b9b0a8f298ca4&timestamp=1757946805&sign=9c3c08ae8ce6caa11f98a3a7a88bed6b"
     type: http
     interval: 86400
     health-check:
